@@ -57,7 +57,7 @@ I) Dado pessoal: informação relacionada a pessoa natural identificada ou ident
 II) Dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
 
 ### Finalidade e uso dos dados pessoais | Art. 7º
-<p aling="justify">O tratamento dos dados pessoais somente poderá ser feito nas seguintes hipóteses;</p
+<p aling="justify">O tratamento dos dados pessoais somente poderá ser feito nas seguintes hipóteses;</p>
 
 I) Mediante o fornecimento de consentimento pelo titular; 
 

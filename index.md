@@ -4,4 +4,7 @@
 ### Teste de recurso de acessiblidade: Texto Narrado (any .mp3 file for a simple test)
 
 <audio controls src="https://github.com/acauatunari/LGPD-studies/blob/fe2630ab0629732e5112d3a89a3f7fb3169c70cf/acessibilidade/Fabio-Brazza-Cancelado.mp3"></audio>
+<audio controls src="https://github.com/acauatunari/LGPD-studies/blob/main/acessibilidade/Fabio-Brazza-Cancelado.mp3"></audio>
+<audio controls src="acessibilidade/Fabio-Brazza-Cancelado.mp3"></audio>
 
+<audio ref='themeSong' src="https://github.com/acauatunari/LGPD-studies/blob/fe2630ab0629732e5112d3a89a3f7fb3169c70cf/acessibilidade/Fabio-Brazza-Cancelado.mp3" controls></audio>

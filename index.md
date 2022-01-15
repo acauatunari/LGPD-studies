@@ -127,9 +127,11 @@ VI) Eliminação dos dados pessoais a que se refere a infração;
 
 <div>
    <img width="250" height="250" src='https://raw.githubusercontent.com/acauatunari/LGPD-studies/main/img/acaua-profiler.jpeg' align="left">
-   <p>Acauã Tunari @acauatunari</p>
-   <p>Índígena, apaixonado por computação com foco em segurança cibernética e voluntário no Instituto Nacional Leva Ciência. #hackerCulture</p>
-   <a href="https://about.me/acauatunari/" target="_blank">about.me</a> | 
-   <a href="https://www.linkedin.com/in/acauatunari/" target="_blank">LinkedIn</a> | 
-   <a href="https://github.com/acauatunari/" target="_blank">Github</a>
+   <p aling="right">Acauã Tunari @acauatunari</p>
+   <p aling="right">Índígena, apaixonado por computação com foco em segurança cibernética e voluntário no Instituto Nacional Leva Ciência. #hackerCulture</p>
+   <p aling="right"><a href="https://about.me/acauatunari/" target="_blank">about.me</a> | <a href="https://www.linkedin.com/in/acauatunari/" target="_blank">LinkedIn</a> | <a href="https://github.com/acauatunari/" target="_blank">Github</a></p>
+   
 </div>
+</br>
+</br>
+</br>

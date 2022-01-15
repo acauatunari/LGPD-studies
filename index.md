@@ -123,3 +123,13 @@ V) Bloqueio dos dados pessoais a que se refere a infração até a sua regulariz
 VI) Eliminação dos dados pessoais a que se refere a infração;
 
 ### About-me
+
+
+<div>
+   <img width="250" height="250" src='https://github.com/acauatunari/LGPD-studies/blob/main/img/acaua-profiler.jpeg' align="left">
+   <p>Acauã Tunari @acauatunari</p>
+   <p>Índígena, apaixonado por computação com foco em segurança cibernética e voluntário no Instituto Nacional Leva Ciência. #hackerCulture</p>
+   <a href="https://about.me/acauatunari/" target="_blank">about.me</a> | 
+   <a href="https://www.linkedin.com/in/acauatunari/" target="_blank">LinkedIn</a> | 
+   <a href="https://github.com/acauatunari/" target="_blank">Github</a>
+</div>

@@ -8,3 +8,9 @@
 var audio = new Audio("https://raw.githubusercontent.com/acauatunari/LGPD-studies/main/acessibilidade/Fabio-Brazza-Cancelado.mp3")
 audio.play()
 </script>
+
+   <audio id="Test_Audio" controls>
+        <source src=
+"https://raw.githubusercontent.com/acauatunari/LGPD-studies/main/acessibilidade/Fabio-Brazza-Cancelado.mp3"
+        type="audio/mpeg">
+    </audio>

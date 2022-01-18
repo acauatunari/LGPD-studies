@@ -1,4 +1,5 @@
-## Conceitos Básicos de LGPD<br>!!! Em construção !!!
+## Conceitos Básicos de LGPD
+<p font-size:"20px">❗❗❗ Em construção ❗❗❗</p>
 
 **Disclaimer**: As informações presentes aqui são um compilado das minhas anotações de estudos pessoais da LGPD. Aqui será apresentado apenas uma visão parcial da Lei nº 13.709.  
 

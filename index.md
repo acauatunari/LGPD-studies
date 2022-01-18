@@ -4,7 +4,7 @@
 **Disclaimer**: As informações presentes aqui são um compilado das minhas anotações de estudos pessoais da LGPD. Aqui será apresentado apenas uma visão parcial da Lei nº 13.709.  
 
 ### Teste de recursos de acessiblidade: 
-#### Texto Narrado. Narração de texto de alta qualidade. (EM CONSTRUÇÃO)
+#### Texto Narrado. (EM APERFEIÇOAMENTO)
    <audio id="Test_Audio" controls>
         <source src=
 "https://raw.githubusercontent.com/acauatunari/LGPD-studies/main/acessibilidade/Fabio-Brazza-Cancelado.mp3"

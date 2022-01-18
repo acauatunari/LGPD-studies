@@ -132,6 +132,6 @@ VI) Eliminação dos dados pessoais a que se refere a infração;
    <p aling="right"><a href="https://about.me/acauatunari/" target="_blank">about.me</a> | <a href="https://www.linkedin.com/in/acauatunari/" target="_blank">LinkedIn</a> | <a href="https://github.com/acauatunari/" target="_blank">Github</a></p>
    
 </div>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>

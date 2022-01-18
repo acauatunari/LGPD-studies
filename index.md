@@ -1,13 +1,18 @@
-## Conceitos Básicos de LGPD
+## Conceitos Básicos de LGPD !!! Em construção !!!
 
 **Disclaimer**: As informações presentes aqui são um compilado das minhas anotações de estudos pessoais da LGPD. Aqui será apresentado apenas uma visão parcial da Lei nº 13.709.  
 
-### Teste de recurso de acessiblidade: Texto Narrado (any .mp3 file for a simple test)
+### Teste de recursos de acessiblidade: 
+#### Texto Narrado. Narração de texto de alta qualidade. (EM CONSTRUÇÃO)
    <audio id="Test_Audio" controls>
         <source src=
 "https://raw.githubusercontent.com/acauatunari/LGPD-studies/main/acessibilidade/Fabio-Brazza-Cancelado.mp3"
         type="audio/mpeg">
     </audio>
+    
+#### Apresentação em libras. (EM CONSTRUÇÃO)
+
+#### Texto em braille. (EM CONSTRUÇÃO)
 
 ### O que é | Art. 1º
 <p aling="justify">Lei nº 13.709. Agosto de 2018. Determina como os dados dos cidadãos podem ser coletados e tratados, determina também quais sansões serão aplicadas mediante o não cumprimento das normas previstas nesta lei</p>

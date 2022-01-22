@@ -11,10 +11,6 @@
         type="audio/mpeg">
     </audio>
     
-#### Apresentação em libras. (EM CONSTRUÇÃO)
-
-#### Texto em braille. (EM CONSTRUÇÃO)
-
 ### O que é | Art. 1º
 <p aling="justify">Lei nº 13.709. Agosto de 2018. Determina como os dados dos cidadãos podem ser coletados e tratados, determina também quais sansões serão aplicadas mediante o não cumprimento das normas previstas nesta lei</p>
 
